@@ -1,0 +1,91 @@
+!Hong Kong, 16h7m
+!Bangkok, 17h28m
+!London, 7h37m
+!Macau, 16h9m
+!Singapore, 19h9m
+!Paris, 7h59m
+!Dubai, 14h17m
+!New York City, 1h17m
+!Kuala Lumpur, 18h55m
+!Istanbul, 10h42m
+!Delhi, 14h59m
+!Antalya, 11h14m
+!Shenzhen, 16h6m
+!Mumbai, 16h3m
+!Phuket, 18h16m
+!Rome, 9h19m
+!Tokyo, 13h23m
+!Pattaya, 17h34m
+!Taipei, 15h33m
+!Mecca, 13h34m
+!Guangzhou, 16h2m
+!Prague, 8h50m
+!Medina, 13h13m
+!Seoul, 13h42m
+!Amsterdam, 7h57m
+!Agra, 15h12m
+!Miami, 2h58m
+!Osaka, 13h43m
+!Las Vegas, 4h24m
+!Shanghai, 14h43m
+!Barcelona, 8h29m
+!Los Angeles, 4h51m
+!Milan, 8h46m
+!Chennai, 17h9m
+!Vienna, 9h7m
+!Johor Bahru, 19h8m
+!Jaipur, 15h9m
+!Cancun, 3h43m
+!Berlin, 8h34m
+!Cairo, 11h58m
+!Orlando, 2h36m
+!Moscow, 9h50m
+!Venice, 9h2m
+!Madrid, 8h1 minute
+!Riyadh, 13h44m
+!Dublin, 7h3m
+!Florence, 9h4m
+!Jerusalem, 12h7m
+!Hanoi, 16h26m
+!Johannesburg, 17h4m
+!Sydney, 19h51m
+!Munich, 8h46m
+!Jakarta, 20h9m
+!Beijing, 13h42m
+!Saint Petersburg, 9h3m
+!Brussels, 8h1 minute
+!Budapest, 9h23m
+!Lisbon, 7h38m
+!Dammam, 13h49m
+!Heraklion, 10h57m
+!Kyoto, 13h40m
+!Zhuhai, 16h8m
+!Vancouver, 4h41m
+!Chiang Mai, 16h46m
+!Copenhagen, 8h17m
+!San Francisco, 5h2m
+!Melbourne, 20h43m
+!Warsaw, 9h7m
+!Marrakesh, 8h16m
+!Kolkata, 16h7m
+!Auckland, 17h45m
+!TelAviv, 12h3m
+!Guilin, 15h48m
+!Honolulu, 9h49m
+!Hurghada, 12h28m
+!Krakow, 9h14m
+!Mugla, 11h2m
+!Buenos Aires, 11h35m
+!Frankfurt, 8h24m
+!Stockholm, 8h23m
+!Lima, 8h10m
+!Da Nang, 17h5m
+!Batam, 19h11m
+!Nice, 8h45m
+!Fukuoka, 14h6m
+!AbuDhabi, 14h19m
+!Jeju, 14h15m
+!Porto, 7h31m
+!Rhodes, 11h6m
+!Krabi, 18h14m
+!Bangalore, 17h3m
